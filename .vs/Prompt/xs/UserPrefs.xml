@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{15F51CBB-6038-9FF8-103D-8682ED97DD92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/VR/Scripts/Util/OVRSkeleton.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="24" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRHand.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRManager.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRCameraRig.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRInput.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRPlugin.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRSkeleton.cs" Line="246" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prompt" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b05e8a33-d431-44b9-9677-23c1c2c009a8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

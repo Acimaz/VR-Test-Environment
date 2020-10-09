@@ -1,0 +1,16 @@
+{
+    "name": "Oculus.SampleFramework",
+    "references": [
+        "GUID:6be3a6caaca994e04888d883e14efe43",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

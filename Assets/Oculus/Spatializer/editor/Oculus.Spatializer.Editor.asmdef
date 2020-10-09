@@ -1,0 +1,17 @@
+{
+    "name": "NewAssembly",
+    "references": [
+        "GUID:09fd1cb5db1da43c0825125145a0caac"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

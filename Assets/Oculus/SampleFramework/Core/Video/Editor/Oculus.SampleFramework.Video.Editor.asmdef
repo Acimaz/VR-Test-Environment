@@ -1,0 +1,17 @@
+{
+    "name": "Oculus.SampleFramework.Core.Video.Editor",
+    "references": [
+        "GUID:ad1222de592e9417394efa5bdfe32587"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b4f32fd-589e-48a5-a0a3-a7742fa7af43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhantomVR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhantomVR/_Scenes/MainRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhantomVR/_Scenes/MainRoom.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/Editor/CCDatabaseEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/XRExclusiveSocketInteractor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/MasterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomLocomotionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomCustomGrabberComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/Custom/TeleportationAnchorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/TextMeshProUGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/99D37C4C-89B1-426B-B3C4-79BA84C65A39/a4/6bb0f9b1/02000003pdb.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR Beginner/Scripts/Editor/SceneCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@4.2.3/Editor/EditorCore/ToolbarGroup.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Core/PhantomVRApplicationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/NewTestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/PhantomVRMainRoomTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Util/PhantomVRSceneLoaderComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Core/PhantomVRSceneLoaderComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/PhantomVRSceneLoaderTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Rooms/Onboarding/Scripts/PhantomVROnboardingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/PhantomVROnboardingTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Rooms/Senso/Scripts/PhantomVRSensoAreaComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/PhantomVRSensoGameTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRSkeleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/HandsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Util/PhantomVRCopyTransformComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableToolsCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Tests/PhantomVRSquashGameTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Core/PhantomVRHandsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Rooms/SquashVR/Scripts/PhantomVRSquashBallComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/FingerTipPokeTool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayToolView.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/Gameplay/MasterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/AlignmentTrigger.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Controllers/XRController.cs" />
+        <option value="$PROJECT_DIR$/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Controllers/XRControllerEditor.cs" />
+        <option value="$PROJECT_DIR$/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Controllers/XRController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/Editor/CCDatabaseEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/Custom/TeleportationAnchorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomFarFieldGrabbableComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PotionReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Scripts/_Core/PhantomVREnumerations.cs" />
+        <option value="$PROJECT_DIR$/../OpenProject01/UOP1_Project/Assets/Scripts/Systems/SettingsSystem.cs" />
+        <option value="$PROJECT_DIR$/../OpenProject01/UOP1_Project/ProjectSettings/Packages/com.unity.probuilder/Settings.json" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomStaticBatcherComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomLocomotionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/Custom/DebugTextComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/DebugTextComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayTool.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomGrabbableComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR Beginner/Scripts/System/PhantomVREscapeRoomCustomGrabberComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Rooms/SquashVR/Scripts/PhantomVRSquashGameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhantomVR/Rooms/Senso/Scripts/PhantomVRSensoGameController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gj0H5dknd18PF1eb0XRkUR3yeO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502036" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017453" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b4f32fd-589e-48a5-a0a3-a7742fa7af43" name="Default Changelist" comment="" />
+      <created>1598612605077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598612605077</updated>
+      <workItem from="1598612624712" duration="1616000" />
+      <workItem from="1598858950002" duration="5649000" />
+      <workItem from="1598871366676" duration="15563000" />
+      <workItem from="1598944617484" duration="13710000" />
+      <workItem from="1599134098653" duration="8374000" />
+      <workItem from="1599213931816" duration="1843000" />
+      <workItem from="1599468690466" duration="3316000" />
+      <workItem from="1599558292539" duration="784000" />
+      <workItem from="1599644080368" duration="3276000" />
+      <workItem from="1599728747902" duration="1656000" />
+      <workItem from="1599810726188" duration="3607000" />
+      <workItem from="1599995014941" duration="344000" />
+      <workItem from="1600014220737" duration="1203000" />
+      <workItem from="1600675535596" duration="517000" />
+      <workItem from="1600879514787" duration="905000" />
+      <workItem from="1600937795508" duration="6112000" />
+      <workItem from="1601032115629" duration="604000" />
+      <workItem from="1601054771325" duration="3000" />
+      <workItem from="1601277622013" duration="4301000" />
+      <workItem from="1601314411098" duration="3042000" />
+      <workItem from="1601363296365" duration="26997000" />
+      <workItem from="1601550205210" duration="1340000" />
+      <workItem from="1601637250136" duration="837000" />
+      <workItem from="1601882541596" duration="13167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="184" key="#Inspection_severity" timestamp="1598613129046">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state x="480" y="184" key="#Inspection_severity/0.23.1792.1018@0.23.1792.1018" timestamp="1598613129046" />
+    <state x="360" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601451121530">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="360" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1601451121530" />
+    <state x="531" y="194" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1599214167168">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state x="531" y="194" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1792.1018@0.23.1792.1018" timestamp="1599214167168" />
+    <state x="531" y="195" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1599042444811" />
+    <state width="1750" height="369" key="GridCell.Tab.0.bottom" timestamp="1599145958255">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.0.bottom/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958255" />
+    <state width="1750" height="369" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588662" />
+    <state width="1750" height="369" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211830" />
+    <state width="1750" height="369" key="GridCell.Tab.0.center" timestamp="1599145958255">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.0.center/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958255" />
+    <state width="1750" height="369" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588661" />
+    <state width="1750" height="369" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211829" />
+    <state width="1750" height="369" key="GridCell.Tab.0.left" timestamp="1599145958254">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.0.left/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958254" />
+    <state width="1750" height="369" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588660" />
+    <state width="1750" height="369" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211829" />
+    <state width="1750" height="369" key="GridCell.Tab.0.right" timestamp="1599145958255">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.0.right/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958255" />
+    <state width="1750" height="369" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588661" />
+    <state width="1750" height="369" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211829" />
+    <state width="1750" height="369" key="GridCell.Tab.1.bottom" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.1.bottom/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588662" />
+    <state width="1750" height="369" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211830" />
+    <state width="1750" height="369" key="GridCell.Tab.1.center" timestamp="1599145958255">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.1.center/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958255" />
+    <state width="1750" height="369" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588662" />
+    <state width="1750" height="369" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211830" />
+    <state width="1750" height="369" key="GridCell.Tab.1.left" timestamp="1599145958255">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.1.left/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958255" />
+    <state width="1750" height="369" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588662" />
+    <state width="1750" height="369" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211830" />
+    <state width="1750" height="369" key="GridCell.Tab.1.right" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.1.right/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588662" />
+    <state width="1750" height="369" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211830" />
+    <state width="1750" height="369" key="GridCell.Tab.2.bottom" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.2.bottom/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.2.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588663" />
+    <state width="1750" height="369" key="GridCell.Tab.2.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211831" />
+    <state width="1750" height="369" key="GridCell.Tab.2.center" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.2.center/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.2.center/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588663" />
+    <state width="1750" height="369" key="GridCell.Tab.2.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211831" />
+    <state width="1750" height="369" key="GridCell.Tab.2.left" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.2.left/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.2.left/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588663" />
+    <state width="1750" height="369" key="GridCell.Tab.2.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211831" />
+    <state width="1750" height="369" key="GridCell.Tab.2.right" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.2.right/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.2.right/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588663" />
+    <state width="1750" height="369" key="GridCell.Tab.2.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211831" />
+    <state width="1750" height="369" key="GridCell.Tab.3.bottom" timestamp="1599145958257">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.3.bottom/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958257" />
+    <state width="1750" height="369" key="GridCell.Tab.3.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588664" />
+    <state width="1750" height="369" key="GridCell.Tab.3.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211832" />
+    <state width="1750" height="369" key="GridCell.Tab.3.center" timestamp="1599145958257">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.3.center/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958257" />
+    <state width="1750" height="369" key="GridCell.Tab.3.center/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588664" />
+    <state width="1750" height="369" key="GridCell.Tab.3.center/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211832" />
+    <state width="1750" height="369" key="GridCell.Tab.3.left" timestamp="1599145958256">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.3.left/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958256" />
+    <state width="1750" height="369" key="GridCell.Tab.3.left/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588663" />
+    <state width="1750" height="369" key="GridCell.Tab.3.left/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211831" />
+    <state width="1750" height="369" key="GridCell.Tab.3.right" timestamp="1599145958257">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state width="1750" height="369" key="GridCell.Tab.3.right/0.23.1792.1018@0.23.1792.1018" timestamp="1599145958257" />
+    <state width="1750" height="369" key="GridCell.Tab.3.right/0.23.1792.1022@0.23.1792.1022" timestamp="1598944588664" />
+    <state width="1750" height="369" key="GridCell.Tab.3.right/0.23.1792.1024@0.23.1792.1024" timestamp="1598896211832" />
+    <state x="665" y="185" key="SettingsEditor" timestamp="1601315729803">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="665" y="184" key="SettingsEditor/0.23.1792.1018@0.23.1792.1018" timestamp="1599657285366" />
+    <state x="665" y="185" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1598944576862" />
+    <state x="665" y="185" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1601315729803" />
+    <state x="100" y="220" width="1592" height="818" key="VCS.FileHistoryDialog" timestamp="1599730299402">
+      <screen x="0" y="23" width="1792" height="1018" />
+    </state>
+    <state x="100" y="220" width="1592" height="818" key="VCS.FileHistoryDialog/0.23.1792.1018@0.23.1792.1018" timestamp="1599730299402" />
+    <state x="421" y="165" width="950" height="743" key="find.popup" timestamp="1601919300764">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="721" y="160" width="950" height="734" key="find.popup/0.23.1792.1018@0.23.1792.1018" timestamp="1599668925780" />
+    <state x="421" y="164" width="950" height="735" key="find.popup/0.23.1792.1020@0.23.1792.1020" timestamp="1599813359933" />
+    <state x="421" y="165" width="950" height="743" key="find.popup/0.23.1792.1030@0.23.1792.1030" timestamp="1601919300764" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1601369970032">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1601369970032" />
+    <state x="559" y="247" width="672" height="681" key="search.everywhere.popup" timestamp="1602071355324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="559" y="246" width="672" height="678" key="search.everywhere.popup/0.23.1792.1018@0.23.1792.1018" timestamp="1600944578800" />
+    <state x="559" y="246" width="672" height="680" key="search.everywhere.popup/0.23.1792.1020@0.23.1792.1020" timestamp="1601032419055" />
+    <state x="559" y="247" width="672" height="681" key="search.everywhere.popup/0.23.1792.1022@0.23.1792.1022" timestamp="1602071355324" />
+    <state x="559" y="247" width="672" height="682" key="search.everywhere.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1602058707609" />
+    <state x="559" y="247" width="672" height="684" key="search.everywhere.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1602068591442" />
+    <state x="559" y="248" width="672" height="687" key="search.everywhere.popup/0.23.1792.1030@0.23.1792.1030" timestamp="1601453806476" />
+  </component>
+</project>

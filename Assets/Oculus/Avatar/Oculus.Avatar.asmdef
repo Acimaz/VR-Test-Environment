@@ -1,0 +1,18 @@
+{
+    "name": "Oculus.Avatar.Scripts",
+    "references": [
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:09fd1cb5db1da43c0825125145a0caac",
+        "GUID:359bae32c2c9145b4835fe3c8c602c33",
+        "GUID:c6f0cbbd7e253af4488c88498837447d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

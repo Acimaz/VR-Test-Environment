@@ -1,0 +1,42 @@
+##################
+# Unity ignores:
+#
+# !!! WARNING !!!
+#
+# … you MUST convert Unity to using Metafiles *before* you start using this
+#  .gitignore file, or you WILL lose data!
+#
+
+# OS generated:
+.DS_Store
+.DS_Store?
+*.swp
+*.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+# All platforms:
+AssetBundles
+Library
+Temp
+Obj
+UnityGenerated
+Assets/UnityVS
+DLCs
+
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+/bin
+/Library
+/obj
+/Build
+Assets/SkySerie Freebie
+InitTestScene*
