@@ -5,13 +5,13 @@ using UnityEngine;
 
 public class TestSceneSetup : MonoBehaviour
 {
-    [SerializeField] HandsManager handsManager;
-    [SerializeField] Transform leftHandAnchor, rightHandAnchor;
-    [SerializeField] Transform originalLeftHand, originalRightHand;
     [SerializeField] GameObject leftHandPrefab, rightHandPrefab;
-
+    
+    HandsManager handsManager;
+    Transform leftHandAnchor, rightHandAnchor;
+    Transform originalLeftHand, originalRightHand;
     GameObject leftHand, rightHand;
-
+    
 #if UNITY_EDITOR
 
     void FindReferences()
