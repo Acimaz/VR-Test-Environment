@@ -31,4 +31,4 @@ You can also toggle the original hands on and off with the "Toggle Original Hand
 
 ## Need help?
 
-Send me a message to ayhan@routine.health and i will try to help.
+Email: ayhan@routine.health
